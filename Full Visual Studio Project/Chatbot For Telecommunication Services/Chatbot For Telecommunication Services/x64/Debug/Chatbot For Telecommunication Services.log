@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\NoteBook\source\Workspaces\Workspace\Chatbot For Telecommunication Services\Chatbot For Telecommunication Services\Source.c(148,13): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\NoteBook\source\Workspaces\Workspace\Chatbot For Telecommunication Services\Chatbot For Telecommunication Services\Source.c(248,10): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\NoteBook\source\Workspaces\Workspace\Chatbot For Telecommunication Services\Chatbot For Telecommunication Services\Source.c(248,15): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\NoteBook\source\Workspaces\Workspace\Chatbot For Telecommunication Services\Chatbot For Telecommunication Services\Source.c(249,19): warning C4013: 'rand' undefined; assuming extern returning int
+C:\Users\NoteBook\source\Workspaces\Workspace\Chatbot For Telecommunication Services\Chatbot For Telecommunication Services\Source.c(329,10): warning C4101: 'choice': unreferenced local variable
+C:\Users\NoteBook\source\Workspaces\Workspace\Chatbot For Telecommunication Services\Chatbot For Telecommunication Services\Source.c(516,25): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  Chatbot For Telecommunication Services.vcxproj -> C:\Users\NoteBook\source\Workspaces\Workspace\Chatbot For Telecommunication Services\x64\Debug\Chatbot For Telecommunication Services.exe
